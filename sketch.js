@@ -24,6 +24,8 @@ function setup() {
 
 	}
 
+	//PROFESSORA O BLOCO NAO APARECE NO MUNDO
+
 	block1= Bodies.rectangle(200,100,90,20);
 
 	World.add(world,block1);
